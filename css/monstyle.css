@@ -1,0 +1,11 @@
+p
+{
+    font-size: 2em;
+    background: black;
+    font-style: italic;
+    color: white;
+    margin: 1em;
+    padding: 2em;
+    padding-left: 1em;
+    border: 25px solid green;
+}
