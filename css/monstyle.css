@@ -1,6 +1,7 @@
+<!--
 p
 {
-    font-size: 2em;
+    font-size: 1em;
     background: black;
     font-style: italic;
     color: white;
@@ -8,4 +9,9 @@ p
     padding: 2em;
     padding-left: 1em;
     border: 25px solid green;
+}
+-->
+div[class^="col-lg"]
+{
+    border: 1px solid #F00;
 }
